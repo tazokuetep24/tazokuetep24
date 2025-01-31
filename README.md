@@ -20,9 +20,8 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 💬 Ask me about anything and everything!
-- <p>📫 How to reach me: write me an email: <span><a href="mailto:tazokuetep@gmail.com">
-  <img height="16" align="left" alt="Mail" src="image/icons/gmail.png" />
-</a></span></p>
+- 📫 How to reach me: write me an email: [![Gmail Logo](image/icons/gmail.png "Shiprock, New Mexico by Beau Rogers")](mailto:tazokuetep@gmail.com)
+
 - <p>ℹ️ Write me a messafe on LinkedIn: <span><a href="https://www.linkedin.com/in/patrick-tazo-kuete-b39866255/">
   <img height="16" align="left" alt="LinkedIn" src="image/icons/linkedin.png" />
 </a></span></p>
