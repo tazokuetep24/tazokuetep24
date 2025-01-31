@@ -7,9 +7,9 @@
   
 ## 🧐 About
 
-- 🏄‍ Community guy who loves being involved in communities and help students grow
-- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
 - 👨🏽‍🎓 I am currently a Computer engineering Student at the RWTH in Aachen Germany.
+- 🦾 Hardwork + Discipline + Perseverence = Goals Achieved.
+- ⚛️ I have a crush on Quantum Computers
 - ♟️ When I am not studying or doing personal projects, I like playing chess puzzles.
 
 
