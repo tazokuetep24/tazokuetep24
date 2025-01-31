@@ -1,7 +1,5 @@
 # Patrick Tazo 👨🏽‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-tazokuetep24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-tazo-kuete-b39866255)](https://www.linkedin.com/in/patrick-tazo-kuete-b39866255) 
-[![Gmail Badge](https://img.shields.io/badge/-tazokuetep@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tazokuetep@gmail.com)](mailto:tazokuetep@gmail.com)
 ---
 
 ## Hi there 👋🏽,
