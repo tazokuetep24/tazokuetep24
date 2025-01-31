@@ -21,10 +21,10 @@
 
 - 💬 Ask me about anything and everything!
 - 📫 How to reach me: write me an email : <a href="mailto:tazokuetep@gmail.com">
-  <img height="16" align="left" alt="Mail" src="img/icons/gmail.png" />
+  <img height="16" align="left" alt="Mail" src="image/icons/gmail.png" />
 </a>
-- ℹ️ Write me a messafe on LinkedIn: <a href="https://www.linkedin.com/in/zach-nguyen">
-  <img height="16" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+- ℹ️ Write me a messafe on LinkedIn: <a href="https://https://www.linkedin.com/in/patrick-tazo-kuete-b39866255/">
+  <img height="16" align="left" alt="LinkedIn" src="image/icons/linkedin.png" />
 </a>
 - ⚡ Fun fact: I love meeting new people and eating food!
 
