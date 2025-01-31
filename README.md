@@ -3,7 +3,7 @@
 ## Hi there 👋🏽,
 
 ### I'm Patrick Tazo, I am a AI enthusiast, who believes that learning is for everyone, not just machines ;)
--------
+
   
 ## 🧐 About
 
@@ -21,7 +21,7 @@
 - ⚡ Fun fact: I love meeting new people and eating food!
 
 
-***
+
 
   <b>:gear: &nbsp;GitHub Statistics</b>
   <br/>
