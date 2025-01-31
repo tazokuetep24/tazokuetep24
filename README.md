@@ -20,13 +20,8 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 💬 Ask me about anything and everything!
-- 📫 How to reach me: write me an email: <span><a href="https://www.linkedin.com/in/patrick-tazo-kuete-b39866255/">
-  <img height="16" align="left" alt="LinkedIn" src="image/icons/linkedin.png" />
-</a></span></p>
-
-- <p>ℹ️ Write me a messafe on LinkedIn: <span><a href="https://www.linkedin.com/in/patrick-tazo-kuete-b39866255/">
-  <img height="16" align="left" alt="LinkedIn" src="image/icons/linkedin.png" />
-</a></span></p>
+- 📫 How to reach me: write me an email: [![Gmail Badge](https://img.shields.io/badge/-tazokuetep@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tazokuetep@gmail.com)](mailto:tazokuetep@gmail.com)
+- ℹ️ Write me a messafe on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-tazokuetep24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-tazo-kuete-b39866255)](https://www.linkedin.com/in/patrick-tazo-kuete-b39866255) 
 - ⚡ Fun fact: I love meeting new people and eating food!
 
 
