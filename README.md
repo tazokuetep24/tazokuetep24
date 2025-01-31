@@ -23,7 +23,7 @@
 
 
 
-  <b>:gear: &nbsp;GitHub Statistics</b>
+ ## <b>:gear: &nbsp;GitHub Statistics</b>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=tazokuetep24&hide_border=true&theme=nightowl" />
